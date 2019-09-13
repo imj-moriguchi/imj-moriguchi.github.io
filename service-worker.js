@@ -9,3 +9,5 @@ self.addEventListener('activate', function(e) {
 });
 
 self.addEventListener('fetch', function(event) {});
+
+// hogehoge
